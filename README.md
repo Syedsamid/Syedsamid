@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Samid</h1>
-<h3 align="center">A passionate fullstack web developer</h3>
+<h3 align="center">A passionate fullstack web developerveloper</h3>
 
 - CodeforIndia **Mern stack**
 
@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedsamid&show_icons=true&locale=en&layout=compact" alt="syedsamid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedsamid&show_icons=true&locale=en" alt="syedsamid" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsamid&" alt="syedsamid" /></p>
