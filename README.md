@@ -6,24 +6,15 @@ I am open to new challenges and ready to embark on a professional journey to enh
   
 
 - 🌱 I’m currently learning React vite  
-  
-
 - ❓ Ask me about Node.js, Express, JavaScript, and CSS  
-  
-
 📫 How to reach me samidsyed1720@gmail.com  
-  
-
-📱Mostly Active on Twitter  Syedsamid_20  
-  
+📱Mostly Active on Twitter  Syedsamid_20
 
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -38,8 +29,6 @@ I am open to new challenges and ready to embark on a professional journey to enh
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -52,8 +41,6 @@ I am open to new challenges and ready to embark on a professional journey to enh
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -61,9 +48,7 @@ I am open to new challenges and ready to embark on a professional journey to enh
 </div>
 
 </td></tr></table>  
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -80,8 +65,6 @@ I am open to new challenges and ready to embark on a professional journey to enh
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
 
 
@@ -94,6 +77,6 @@ I am open to new challenges and ready to embark on a professional journey to enh
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedsamid&show_icons=true&locale=en" alt="syedsamid" />p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsamid&" alt="syedsamid" />p>
-<b/r>
+<br/>
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
