@@ -76,7 +76,5 @@ I am open to new challenges and ready to embark on a professional journey to enh
 <br/>  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedsamid&show_icons=true&locale=en" alt="syedsamid" />p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsamid&" alt="syedsamid" />p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsamid&" alt="syedsamid" />
 <br/>
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
