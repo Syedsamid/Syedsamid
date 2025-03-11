@@ -73,8 +73,7 @@ I am open to new challenges and ready to embark on a professional journey to enh
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Syedsamid&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedsamid&show_icons=true&locale=en" alt="syedsamid" />p>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsamid&" alt="syedsamid" />
 <br/>
