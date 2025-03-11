@@ -94,3 +94,9 @@ I am open to new challenges and ready to embark on a professional journey to enh
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedsamid&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+
+<br/>  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Syedsamid&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>  
