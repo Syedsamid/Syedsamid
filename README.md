@@ -11,7 +11,7 @@ I am open to new challenges and ready to embark on a professional journey to enh
   
 📫 How to reach me samidsyed1720@gmail.com  
   
-📱Mostly Active on Twitter  Syedsamid_20  
+📱Mostly Active on Twitter  @samidcodes  
   
 <br/>  
 
